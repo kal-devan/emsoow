@@ -1,0 +1,48 @@
+.main_menu {
+  background-color: #e7a4e4;
+}
+
+.menu_1{
+  display: inline-block;
+  border: solid 1px;
+  border-color: #d3f4ff;
+  position: relative;
+  background-color: #e7a4e4;
+  color: #d3f4ff;
+  width: 7.5rem;
+  text-align: center;
+}
+
+.menu_ {
+  display: inline-block;
+  border: solid 1px;
+  border-color: #d3f4ff;
+  position: relative;
+  background-color: #e7a4e4;
+  color: #d3f4ff;
+}
+ .menu_img {
+width: 0.76rem;
+ }
+
+.Account_line {
+  position: relative;
+  left: 80rem;
+  margin-bottom: 0.5rem;
+  padding-top: 0.3rem;
+}
+
+#Logo {
+  position: absolute;
+  top:
+}
+
+p {
+  margin:  0.3rem 0.3rem;
+  display: inline-block;
+}
+
+body {
+  background-color: #d3f4ff;
+  margin: 0;
+}
