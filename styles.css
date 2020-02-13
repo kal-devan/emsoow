@@ -26,16 +26,14 @@ width: 0.76rem;
  }
 
 .Account_line {
-  position: relative;
-  left: 70%;
+  position: absolute;
+  right: 10%;
   margin-bottom: 0.5rem;
   padding-top: 0.3rem;
+  display: inline;
 }
 
-#Logo {
-  position: absolute;
-  top:
-}
+
 
 p {
   margin:  0.3rem 0.3rem;
